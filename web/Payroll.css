@@ -1,0 +1,26 @@
+#box
+{
+    border-width: 2px;
+    border-style: solid;
+    border-color: black;
+    background-image:linear-gradient(white,#F74E8E);
+    width:800px;
+    opacity: 0.8;
+    margin-top: 40px;
+    padding-bottom: 30px;
+    color:black;
+    margin:auto;
+}
+
+body
+{
+    background-image: url("bg.jpg");
+    font-family: Cambria;
+    background-attachment: fixed; 
+}
+
+a
+{
+    text-decoration: underline;
+    color:black;
+}
